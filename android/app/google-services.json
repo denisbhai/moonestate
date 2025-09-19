@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434235379681",
+    "project_id": "moonestate-f050d",
+    "storage_bucket": "moonestate-f050d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434235379681:android:ba3ba5e49b22bee9e2cca0",
+        "android_client_info": {
+          "package_name": "com.example.moonestate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArmHa5v5Oq2Q7USNp43nH-_vT2ns5BVn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
